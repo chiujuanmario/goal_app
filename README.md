@@ -1,1 +1,1 @@
-# Goals App - React Native using Expo
+# Goals App - ExpressJS and Moongose
